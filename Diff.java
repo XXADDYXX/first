@@ -3,6 +3,6 @@ public class Diff{
         int a=10;
         int b=8;
         int diff=a-b;
-        System.out.println("thaxaxiis"+diff);
+        // System.out.println("thaxaxiis"+diff);
     }
     }
